@@ -11,7 +11,7 @@
 
   "permissions": [
     "webRequest",
-		"<all_urls>"
+    "<all_urls>"
   ],
 
   "background": {
